@@ -1,0 +1,17 @@
+name: AutoSell
+main: Ki\AutoSell\AutoSell
+version: 1.0
+api: 4.0.0
+author: LamPocketVN
+edit: Updata Pm4 by Ki
+
+commands:
+  autosell:
+    description: "Bật / Tắt tính năng tự động bán đồ"
+    permission: autosell.command
+
+permissions:
+  autosell.command:
+    default: true
+    
+
