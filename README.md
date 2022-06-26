@@ -2,6 +2,6 @@
 # AutoSell
 A plugin auto sell items while inventory full.
 # Permission
- * lpksell.command (default: true)
+ * autosell.command (default: true)
 # Requied plugin
  * [Sell](https://github.com/Muqsit/Sell)
